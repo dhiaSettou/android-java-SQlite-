@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Available trips</string>
+    <string name="title">agency</string>
+    <string name="title2">Destination</string>
+
+    <string-array name="wilaya">
+        <item></item>
+
+        <item>adrar</item>
+        <item>annaba</item>
+        <item>el oued </item>
+        <item>biskra</item>
+        <item>alger</item>
+    </string-array>
+    <string-array name="company">
+        <item></item>
+        <item>amira</item>
+        <item>soutraf</item>
+        <item>wassal </item>
+        <item>settou</item>
+        <item>cotilys</item>
+    </string-array>
+
+</resources>
